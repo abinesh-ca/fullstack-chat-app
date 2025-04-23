@@ -39,6 +39,6 @@ npm start
 ```
 ## 🔗 Live Demo
 
-[GitHub Repository - Twitter Clone MERN Stack](https://fullstack-chat-app-byti.onrender.com/)
+[GitHub Repository - CHAT APP MERN Stack](https://fullstack-chat-app-byti.onrender.com/)
 
 ---
